@@ -1,0 +1,10 @@
+:root {
+    --body-color: rgb(173, 71, 71);
+}
+
+#switchBG {
+  background-color: aqua;
+}
+.bg{
+  background-color: blueviolet
+}
